@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3af008-ee3c-48e9-9985-a1cabc1e8a40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SpecialCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TilluKiSavari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfgSolutions/ExactMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfgSolutions/EvenSubsetsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfgSolutions/SwapElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671631113814</updated>
       <workItem from="1671631114800" duration="3932000" />
+      <workItem from="1671711818588" duration="1368000" />
     </task>
     <servers />
   </component>
@@ -114,6 +114,15 @@
           <url>file://$PROJECT_DIR$/src/SpecialCount.java</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/gfgSolutions/SpecialCount.java</url>
+          <line>8</line>
+          <properties class="gfgSolutions.SpecialCount" method="countSpecials">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
