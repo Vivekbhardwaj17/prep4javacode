@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="ee3af008-ee3c-48e9-9985-a1cabc1e8a40" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gfgSolutions/SpecialCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfgSolutions/SpecialCount.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="ee3af008-ee3c-48e9-9985-a1cabc1e8a40" name="Changes" comment="dfgh" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vivekbhardwaj17 &lt;vivekofficial2018@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -30,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -37,8 +47,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+>>>>>>> Stashed changes
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ExactMatch">
     <configuration name="ExactMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfgSolutions.ExactMatch" />
@@ -75,8 +93,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671631113814</updated>
+<<<<<<< Updated upstream
       <workItem from="1671631114800" duration="4434000" />
+=======
+      <workItem from="1671631114800" duration="3932000" />
+      <workItem from="1671698608494" duration="546000" />
+>>>>>>> Stashed changes
     </task>
+    <task id="LOCAL-00001" summary="dfgh">
+      <created>1671698932738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671698932738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dfgh">
+      <created>1671699141559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671699141559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,11 +125,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/new_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dfgh" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfgh" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
