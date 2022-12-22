@@ -4,33 +4,28 @@ import java.util.Arrays;
 
 public class SpecialCount {
     public static void main(String[] args) {
-        countSpecials(new int[]{1, 4, 1, 4, 4, 1},6,2);
+        countSpecials(new int[]{1, 4, 1, 4, 4, 1 ,5 ,5 ,5, 1, 1},11,3);
     }
     static void countSpecials(int a[], int n, int k){
         int f = (int)Math.floor(n/k);
         Arrays.sort(a);
-        int count=0;
-        int ans =0;
-        int prev = a[0];
-        boolean flag=false;
-        for(int i:a){
-            if(count>=f){
-                ans++;
-                flag = true;
-                count=0;
+        int locCount=1;
+        int ans=0;
+        for(int i=1;i<a.length;i++){
+            if(a[i-1]==a[i]){
+                locCount++;
             }
-            if(prev!=i){
 
-                prev = i;
-                flag = false;
+            else {
+                if (locCount == f) {
+                    ans++;
+                }
+                locCount = 1;
             }
-             if(!flag) count++;
         }
-        if(count>=f){
+        if(locCount == f)
             ans++;
-            flag = true;
-            count=0;
-        }
+
         System.out.println(ans);
     }
 }

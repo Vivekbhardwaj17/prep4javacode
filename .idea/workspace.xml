@@ -31,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ExactMatch">
+}</component>
+  <component name="RunManager" selected="Application.gfgSolutions.SpecialCount">
     <configuration name="ExactMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfgSolutions.ExactMatch" />
       <module name="prep4javacode" />
@@ -60,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gfgSolutions.SpecialCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfgSolutions.SpecialCount" />
+      <module name="prep4javacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfgSolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gfgSolutions.SpecialCount" />
         <item itemvalue="Application.ExactMatch" />
         <item itemvalue="Application.SpecialCount" />
       </list>
