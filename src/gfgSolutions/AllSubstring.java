@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 public class AllSubstring {
     public static void main(String[] args) {
-        List<String> substringList = getAllSubstring("vivek");
+        List<String> substringList = getAllSubstring("{}{[[())]");
         substringList.stream().sorted().forEach(System.out::println);
     }
     public static List<String> getAllSubstring(String str){
